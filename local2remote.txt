@@ -1,0 +1,2 @@
+Open sftp://AKS%20topside%20Product:Password2019;fingerprint=ssh-ed25519-MEnnDtu8x5ZFQntf6IahAHpB09eoujAESyhTJw0Viy8@192.168.1.100/
+synchronize remote "C:\Users\AKS Topside Product\Downloads" "/C:/Users/AKS Topside Product/Downloads"
